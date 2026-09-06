@@ -15,6 +15,7 @@ Especializado en creación y optimización de sitios web con **WordPress**, **El
 
 * **Sistema de Inventario:** Aplicación web para control de stock en PHP y MySQL.
 
+<img width="1024" height="786" alt="inventario" src="https://github.com/user-attachments/assets/d533ee82-e685-48a3-baf0-8254c90f6995" />
 
 
 
