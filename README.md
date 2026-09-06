@@ -12,6 +12,12 @@ Especializado en creación y optimización de sitios web con **WordPress**, **El
 ---
 
 ### 💼 Proyectos Destacados
-* **Sistema de Inventario:** Aplicación web completa para control de stock desarrollada en PHP y MySQL.
+
+* **Sistema de Inventario:** Aplicación web para control de stock en PHP y MySQL.
 * **Estación de Combustible:** Sitio web funcional y optimizado.
-* **Sitios Web Corporativos:** Páginas empresariales diseñadas a medida con WordPress y Elementor.
+
+#### 🌐 Sitios Web en Vivo (WordPress & Elementor)
+* 🔗 [Glass Pool Fences](https://glass-pool-fences.giovani.glass/)
+* 🔗 [Glass Replacement NYC](https://glass-replacement-nyc.giovani.glass)
+* 🔗 [Rincón de Piria](https://rincondepiria.com/)
+* 🔗 [Efraín Villagrán](https://efrainvillagran.net)
