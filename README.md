@@ -1,4 +1,4 @@
-# ¡Gerardo Simancas! Soy Diseño y Desarrollo Web 🚀
+# ¡Gerardo Simancas!  Diseño y Desarrollo Web 🚀
 
 Especializado en creación y optimización de sitios web con **WordPress**, **Elementor** y soluciones a medida en **PHP** y **MySQL**.
 
