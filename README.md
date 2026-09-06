@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Desarrollador Web 🚀
 
-<!--
-**xaviers84/xaviers84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especializado en creación y optimización de sitios web con **WordPress**, **Elementor** y soluciones a medida en **PHP** y **MySQL**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+- **CMS & Builders:** WordPress, Elementor Pro, WooCommerce
+- **Desarrollo Web:** PHP, MySQL, HTML5, CSS3, JavaScript
+- **Administración & SEO:** cPanel, SSL, SEO On-Page, Optimización WPO
+
+---
+
+### 💼 Proyectos Destacados
+* **Sistema de Inventario:** Aplicación web completa para control de stock desarrollada en PHP y MySQL.
+* **Estación de Combustible:** Sitio web funcional y optimizado.
+* **Sitios Web Corporativos:** Páginas empresariales diseñadas a medida con WordPress y Elementor.
