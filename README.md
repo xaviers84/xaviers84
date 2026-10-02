@@ -67,4 +67,12 @@ Especializado en creación y optimización de sitios web con **WordPress**, **El
 
 
 
+<br><br>
+
+* 🔗 [Creaciones IA](https://scalix.great-site.net/)
+
+
+
+
+<img width="1920" height="2875" alt="scalix-en servidor" src="https://github.com/user-attachments/assets/d957b599-ba99-4558-8ad0-fe429eeacde0" />
 
