@@ -76,3 +76,15 @@ Especializado en creación y optimización de sitios web con **WordPress**, **El
 
 <img width="1920" height="2875" alt="scalix-en servidor" src="https://github.com/user-attachments/assets/d957b599-ba99-4558-8ad0-fe429eeacde0" />
 
+
+<br><br>
+
+* 🔗 [Didiet](https://didiet.infinityfree.me/)
+
+
+<img width="1920" height="3017" alt="screencapture-didiet-infinityfree-me" src="https://github.com/user-attachments/assets/0b3a2576-7969-4fce-aa51-a3ff16edc702" />
+
+
+
+
+
