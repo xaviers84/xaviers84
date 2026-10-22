@@ -25,7 +25,7 @@ Especializado en creación y optimización de sitios web con **WordPress**, **El
 * **Estación de Combustible:** Sitio web funcional y optimizado.
 <img width="1920" height="911" alt="estacions-2026-09-06-07_41_18" src="https://github.com/user-attachments/assets/d70d7dc0-a55e-44a5-b7f1-09cba6c3a262" />
 
-#### 🌐 Sitios Web en Vivo (WordPress & Elementor)
+#### 🌐 Sitios Web (WordPress & Elementor)
 * 🔗 [Glass Pool Fences](https://glass-pool-fences.giovani.glass/)
 
 
