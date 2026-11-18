@@ -41,7 +41,7 @@ Especializado en creación y optimización de sitios web con **WordPress**, **El
 
 
 
-* 🔗 [Glass Replacement NYC](https://glass-replacement-nyc.giovani.glass)
+* 🔗 [Glass Replacement NYC]
 
 
 
